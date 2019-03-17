@@ -1,6 +1,11 @@
 [
-  {
-    "name": "Fiction",
-    "url" : "https://raw.githubusercontent.com/Brushpaper/ShopMargaret/master/categories.json"
-  }
+  {"underCategoriesUrl" : "https://gist.githubusercontent.com/Brushpaper/95f9b2025e8d53980b8eb2389bf27d84/raw/2b711b750dc235d104ac4ce9d6c4b68d358c8627/UnderCategory_fiction.json",
+    "name": "Художественная литература",
+    "imageURL":"http://www.kadrof.ru/sites/default/files/illustrations/books_sale.jpg"},
+  {"underCategoriesUrl" : "https://gist.githubusercontent.com/Brushpaper/343a05d6f4983797e87bd5779da315f1/raw/7b1d5bc909031aa924f2492a703d66cc452f4044/UnderCategory_Applied.json",
+    "name": "Деловая литература",
+    "imageURL":"https://metaleader.ee/wp-content/uploads/2017/02/wlRWz1V2SzI.jpg"},
+  {"underCategoriesUrl" : "https://gist.githubusercontent.com/Brushpaper/2dfa26b0ce253073d6280f61ecbfffcd/raw/5ddb2cf64078bc78259d674093792ec41fd6c21d/UnderCategory_Study.json",
+    "name": "Образование",
+    "imageURL":"https://www.halva.by/~dam/56dabef233894763225a7ad8/books_940x380.jpg"}
 ]
