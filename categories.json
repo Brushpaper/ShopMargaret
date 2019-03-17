@@ -1,14 +1,14 @@
 [
   { "haveSubCategories" : true,
-    "url" : "https://raw.githubusercontent.com/Brushpaper/ShopMargaret/master/subCategories_Fiction.json",
+    "url" : "https://raw.githubusercontent.com/Brushpaper/ShopMargaret/master/Fiction/subCategories_Fiction.json",
     "name": "Художественная литература",
     "imageURL":"http://www.kadrof.ru/sites/default/files/illustrations/books_sale.jpg"},
   { "haveSubCategories" : true,
-    "url" : "https://raw.githubusercontent.com/Brushpaper/ShopMargaret/master/subCategories_Business.json",
+    "url" : "https://raw.githubusercontent.com/Brushpaper/ShopMargaret/master/Business/subCategories_Business.json",
     "name": "Деловая литература",
     "imageURL":"https://metaleader.ee/wp-content/uploads/2017/02/wlRWz1V2SzI.jpg"},
   { "haveSubCategories" : true,
-    "url" : "https://raw.githubusercontent.com/Brushpaper/ShopMargaret/master/subCategories_Study.json",
+    "url" : "https://raw.githubusercontent.com/Brushpaper/ShopMargaret/master/Study/subCategories_Study.json",
     "name": "Образование",
     "imageURL":"https://www.halva.by/~dam/56dabef233894763225a7ad8/books_940x380.jpg"}
 ]
