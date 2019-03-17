@@ -2,13 +2,16 @@
   { "haveSubCategories" : false,
     "url": "https://raw.githubusercontent.com/Brushpaper/ShopMargaret/master/products_fantasy.json",
     "name": "Фантастика",
-    "imageURL":"https://images.eksmo.ru/upload/iblock/467/donkihot_M.jpg"},
+    "imageURL":"https://images.eksmo.ru/upload/iblock/467/donkihot_M.jpg"
+  },
   { "haveSubCategories" : false,
     "url": "",
     "name": "Детективы",
-    "imageURL":"https://ic.pics.livejournal.com/kinocomedy/68170390/3101784/3101784_original.jpg"},
+    "imageURL":"https://ic.pics.livejournal.com/kinocomedy/68170390/3101784/3101784_original.jpg"
+  },
   { "haveSubCategories" : false,
     "url": "",
     "name": "Приключения",
-    "imageURL":"https://reedcafe.ru/sites/default/files/inline/images/tom-soyer.jpg"}
+    "imageURL":"https://reedcafe.ru/sites/default/files/inline/images/tom-soyer.jpg"
+  }
 ]
