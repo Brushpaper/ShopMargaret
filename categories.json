@@ -1,5 +1,6 @@
 [
   {
-    "name": "Fiction"
+    "name": "Fiction",
+    "url" : "https://raw.githubusercontent.com/Brushpaper/ShopMargaret/master/categories.json"
   }
 ]
