@@ -7,11 +7,11 @@
   { "haveSubCategories" : false,
     "url": "https://raw.githubusercontent.com/Brushpaper/ShopMargaret/master/Fiction/products_detective.json",
     "name": "Детективы",
-    "imageURL":"https://ic.pics.livejournal.com/kinocomedy/68170390/3101784/3101784_original.jpg"
+    "imageURL":"https://user-images.githubusercontent.com/48313651/54904002-582c6c00-4eee-11e9-8600-d60a21e58edf.png"
   },
   { "haveSubCategories" : false,
     "url": "https://raw.githubusercontent.com/Brushpaper/ShopMargaret/master/Fiction/products_adventures.json",
     "name": "Приключения",
-    "imageURL":"https://reedcafe.ru/sites/default/files/inline/images/tom-soyer.jpg"
+    "imageURL":"https://user-images.githubusercontent.com/48313651/54904122-a3467f00-4eee-11e9-8c31-cebcedb46d0b.png"
   }
 ]
